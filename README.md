@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haFeezRehman0
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m django developer
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me /hm4268733@gmail.com # +923066037376
 
 <!---
